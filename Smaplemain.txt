@@ -1,1 +1,2 @@
 This is main sample file
+This is Stash lecture, changes in main file
