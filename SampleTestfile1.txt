@@ -1,2 +1,7 @@
 This is sample file 1
+
 This is Stash lecture, changes file 1
+
+
+Git Revert Change file 1
+
